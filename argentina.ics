@@ -1,0 +1,1425 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sportscal//argentina calendar//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Deportes AR
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:motorsport:f1:2026-03-06:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260306T013000Z
+DTEND:20260306T030000Z
+SUMMARY:F1 · Práctica — Australian Grand Prix
+DESCRIPTION:Circuito: Albert Park Grand Prix Circuit\nFuente: jolpica
+LOCATION:Albert Park Grand Prix Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-03-07:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260307T050000Z
+DTEND:20260307T060000Z
+SUMMARY:F1 · Clasificación — Australian Grand Prix
+DESCRIPTION:Circuito: Albert Park Grand Prix Circuit\nFuente: jolpica
+LOCATION:Albert Park Grand Prix Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-03-08:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260308T040000Z
+DTEND:20260308T060000Z
+SUMMARY:F1 · Carrera — Australian Grand Prix
+DESCRIPTION:Circuito: Albert Park Grand Prix Circuit\nFuente: jolpica
+LOCATION:Albert Park Grand Prix Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-03-13:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260313T033000Z
+DTEND:20260313T050000Z
+SUMMARY:F1 · Práctica — Chinese Grand Prix
+DESCRIPTION:Circuito: Shanghai International Circuit\nFuente: jolpica
+LOCATION:Shanghai International Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-03-13:sprint_shootout@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260313T073000Z
+DTEND:20260313T081500Z
+SUMMARY:F1 · Sprint Shootout — Chinese Grand Prix
+DESCRIPTION:Circuito: Shanghai International Circuit\nFuente: jolpica
+LOCATION:Shanghai International Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-03-14:sprint@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260314T030000Z
+DTEND:20260314T040000Z
+SUMMARY:F1 · Sprint — Chinese Grand Prix
+DESCRIPTION:Circuito: Shanghai International Circuit\nFuente: jolpica
+LOCATION:Shanghai International Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-03-14:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260314T070000Z
+DTEND:20260314T080000Z
+SUMMARY:F1 · Clasificación — Chinese Grand Prix
+DESCRIPTION:Circuito: Shanghai International Circuit\nFuente: jolpica
+LOCATION:Shanghai International Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-03-15:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260315T070000Z
+DTEND:20260315T090000Z
+SUMMARY:F1 · Carrera — Chinese Grand Prix
+DESCRIPTION:Circuito: Shanghai International Circuit\nFuente: jolpica
+LOCATION:Shanghai International Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-03-27:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260327T023000Z
+DTEND:20260327T040000Z
+SUMMARY:F1 · Práctica — Japanese Grand Prix
+DESCRIPTION:Circuito: Suzuka Circuit\nFuente: jolpica
+LOCATION:Suzuka Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-03-28:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260328T060000Z
+DTEND:20260328T070000Z
+SUMMARY:F1 · Clasificación — Japanese Grand Prix
+DESCRIPTION:Circuito: Suzuka Circuit\nFuente: jolpica
+LOCATION:Suzuka Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-03-29:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260329T050000Z
+DTEND:20260329T070000Z
+SUMMARY:F1 · Carrera — Japanese Grand Prix
+DESCRIPTION:Circuito: Suzuka Circuit\nFuente: jolpica
+LOCATION:Suzuka Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-05-01:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260501T160000Z
+DTEND:20260501T173000Z
+SUMMARY:F1 · Práctica — Miami Grand Prix
+DESCRIPTION:Circuito: Miami International Autodrome\nFuente: jolpica
+LOCATION:Miami International Autodrome
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-05-01:sprint_shootout@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260501T203000Z
+DTEND:20260501T211500Z
+SUMMARY:F1 · Sprint Shootout — Miami Grand Prix
+DESCRIPTION:Circuito: Miami International Autodrome\nFuente: jolpica
+LOCATION:Miami International Autodrome
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-05-02:sprint@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260502T160000Z
+DTEND:20260502T170000Z
+SUMMARY:F1 · Sprint — Miami Grand Prix
+DESCRIPTION:Circuito: Miami International Autodrome\nFuente: jolpica
+LOCATION:Miami International Autodrome
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-05-02:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260502T200000Z
+DTEND:20260502T210000Z
+SUMMARY:F1 · Clasificación — Miami Grand Prix
+DESCRIPTION:Circuito: Miami International Autodrome\nFuente: jolpica
+LOCATION:Miami International Autodrome
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-05-03:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260503T200000Z
+DTEND:20260503T220000Z
+SUMMARY:F1 · Carrera — Miami Grand Prix
+DESCRIPTION:Circuito: Miami International Autodrome\nFuente: jolpica
+LOCATION:Miami International Autodrome
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-05-22:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260522T163000Z
+DTEND:20260522T180000Z
+SUMMARY:F1 · Práctica — Canadian Grand Prix
+DESCRIPTION:Circuito: Circuit Gilles Villeneuve\nFuente: jolpica
+LOCATION:Circuit Gilles Villeneuve
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-05-22:sprint_shootout@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260522T203000Z
+DTEND:20260522T211500Z
+SUMMARY:F1 · Sprint Shootout — Canadian Grand Prix
+DESCRIPTION:Circuito: Circuit Gilles Villeneuve\nFuente: jolpica
+LOCATION:Circuit Gilles Villeneuve
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tc2000:2026-05-23:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260523T153000Z
+DTEND:20260523T170000Z
+SUMMARY:TC2000 · Práctica — Segunda práctica (sin confirmar)
+DESCRIPTION:Circuito: Autódromo Martín Miguel de Güemes\nArgentinos: Fra
+ nco Vivian (Chevrolet Tracker)\, Matías Rossi (Toyota Corolla Cross)\nFue
+ nte: campeones\nHorario tentativo\, puede cambiar.
+LOCATION:Autódromo Martín Miguel de Güemes
+URL:https://campeones.com.ar/tc2000-accidentado-comienzo-de-la-actividad-en
+ -salta/
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-05-23:sprint@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260523T160000Z
+DTEND:20260523T170000Z
+SUMMARY:F1 · Sprint — Canadian Grand Prix
+DESCRIPTION:Circuito: Circuit Gilles Villeneuve\nFuente: jolpica
+LOCATION:Circuit Gilles Villeneuve
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tc2000:2026-05-23:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260523T163000Z
+DTEND:20260523T173000Z
+SUMMARY:TC2000 · Clasificación (sin confirmar)
+DESCRIPTION:Circuito: Autódromo Martín Miguel de Güemes\nArgentinos: Fra
+ nco Vivian (Chevrolet Tracker)\, Matías Rossi (Toyota Corolla Cross)\nFue
+ nte: campeones\nHorario tentativo\, puede cambiar.
+LOCATION:Autódromo Martín Miguel de Güemes
+URL:https://campeones.com.ar/tc2000-accidentado-comienzo-de-la-actividad-en
+ -salta/
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-05-23:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260523T200000Z
+DTEND:20260523T210000Z
+SUMMARY:F1 · Clasificación — Canadian Grand Prix
+DESCRIPTION:Circuito: Circuit Gilles Villeneuve\nFuente: jolpica
+LOCATION:Circuit Gilles Villeneuve
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tc2000:2026-05-24:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260524T000000Z
+DTEND:20260524T020000Z
+SUMMARY:TC2000 · Carrera — TC2000 Fecha 4 - Salta (sin confirmar)
+DESCRIPTION:Circuito: Salta\nArgentinos: Matías Rossi\, Emiliano Stang\, V
+ alentín Yankelevich\, Marcelo Ciarrocchi\, Mateo Polakovich\, Facundo Ald
+ rijeti\, Lucas Vicino\, Nicolás Traut\, Franco Riva\, Franco Vivian\, Fra
+ nco Morillo\, Tomás Fernández\, Gabriel Ponce de León\, Lucas Carabajal
+ \, Nicolás Palau\nFuente: campeones\nHorario tentativo\, puede cambiar.
+LOCATION:Salta
+URL:https://campeones.com.ar/tc2000-la-nueva-marca-que-podria-llegar-en-202
+ 7-y-mas-novedades/
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tc2000:2026-05-24:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260524T122000Z
+DTEND:20260524T135000Z
+SUMMARY:TC2000 · Práctica — Warm up (sin confirmar)
+DESCRIPTION:Circuito: Autódromo de Salta\nFuente: campeones\nHorario tenta
+ tivo\, puede cambiar.
+LOCATION:Autódromo de Salta
+URL:https://campeones.com.ar/tc2000-en-salta-rossi-logro-su-3a-pole-positio
+ n-de-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-05-24:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260524T200000Z
+DTEND:20260524T220000Z
+SUMMARY:F1 · Carrera — Canadian Grand Prix
+DESCRIPTION:Circuito: Circuit Gilles Villeneuve\nFuente: jolpica
+LOCATION:Circuit Gilles Villeneuve
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tc2000:2026-05-25:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260525T150000Z
+DTEND:20260525T170000Z
+SUMMARY:TC2000 · Carrera — Final del TC2000 (sin confirmar)
+DESCRIPTION:Circuito: Autódromo de Salta\nArgentinos: Franco Morillo\, Emi
+ liano Stang\, Lucas Carabajal\, Valentín Yankelevich\, Franco Vivian\, Ma
+ tías Rossi\nFuente: campeones\nHorario tentativo\, puede cambiar.
+LOCATION:Autódromo de Salta
+URL:https://campeones.com.ar/asi-se-larga-la-final-del-tc2000-en-salta/
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tc2000:2026-05-25:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260525T193000Z
+DTEND:20260525T203000Z
+SUMMARY:TC2000 · Clasificación (sin confirmar)
+DESCRIPTION:Circuito: Autódromo Martín Miguel de Güemes\nArgentinos: Mat
+ ías Rossi\, Franco Vivian\, Lucas Carabajal\, Emiliano Stang\, Facundo Al
+ drighetti\nFuente: campeones\nHorario tentativo\, puede cambiar.
+LOCATION:Autódromo Martín Miguel de Güemes
+URL:https://campeones.com.ar/tc2000-rossi-lidero-el-ultimo-segundo-ensayo-s
+ alteno/
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-06-05:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260605T113000Z
+DTEND:20260605T130000Z
+SUMMARY:F1 · Práctica — Monaco Grand Prix
+DESCRIPTION:Circuito: Circuit de Monaco\nFuente: jolpica
+LOCATION:Circuit de Monaco
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-06-06:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260606T140000Z
+DTEND:20260606T150000Z
+SUMMARY:F1 · Clasificación — Monaco Grand Prix
+DESCRIPTION:Circuito: Circuit de Monaco\nFuente: jolpica
+LOCATION:Circuit de Monaco
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-06-07:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260607T130000Z
+DTEND:20260607T150000Z
+SUMMARY:F1 · Carrera — Monaco Grand Prix
+DESCRIPTION:Circuito: Circuit de Monaco\nFuente: jolpica
+LOCATION:Circuit de Monaco
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tn:2026-06-07:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260607T140000Z
+DTEND:20260607T160000Z
+SUMMARY:Turismo Nacional · Carrera — TN Clase 3 - Serie 3 (sin confirmar
+ )
+DESCRIPTION:Circuito: Autódromo Roberto Mouras (La Plata)\nArgentinos: Fac
+ undo Chapur (Honda Civic)\, Jeremías Olmedo (Chevrolet Cruze)\nFuente: ca
+ mpeones\nHorario tentativo\, puede cambiar.
+LOCATION:Autódromo Roberto Mouras (La Plata)
+URL:https://campeones.com.ar/tn-clase-3-agustin-canapino-corto-la-racha-de-
+ honda/
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-06-12:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260612T113000Z
+DTEND:20260612T130000Z
+SUMMARY:F1 · Práctica — Barcelona Grand Prix
+DESCRIPTION:Circuito: Circuit de Barcelona-Catalunya\nFuente: jolpica
+LOCATION:Circuit de Barcelona-Catalunya
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:porsche-supercup:2026-06-13:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260613T042000Z
+DTEND:20260613T052000Z
+SUMMARY:PORSCHE SUPERCUP · Clasificación — Barcelona (sin confirmar)
+DESCRIPTION:Circuito: Barcelona\nArgentinos: Luciano Martínez\nFuente: car
+ burando\nHorario tentativo\, puede cambiar.
+LOCATION:Barcelona
+URL:https://www.carburando.com/notas/porsche-supercup-luciano-martinez-come
+ nzo-con-la-segunda-fecha-en-barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-06-13:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260613T140000Z
+DTEND:20260613T150000Z
+SUMMARY:F1 · Clasificación — Barcelona Grand Prix
+DESCRIPTION:Circuito: Circuit de Barcelona-Catalunya\nFuente: jolpica
+LOCATION:Circuit de Barcelona-Catalunya
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f2:2026-06-14:sprint@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260614T000000Z
+DTEND:20260614T010000Z
+SUMMARY:F2 · Sprint — Barcelona (sin confirmar)
+DESCRIPTION:Circuito: Barcelona-Catalunya\nArgentinos: Nicolás Varrone\nFu
+ ente: carburando\nHorario tentativo\, puede cambiar.
+LOCATION:Barcelona-Catalunya
+URL:https://www.carburando.com/notas/f2-exclusivo-varrone-hablo-de-su-7deg-
+ puesto-en-la-qualy-del-problema-con-el-auto-y-de-lo-que-espera-para-las-ca
+ rreras-en-barcel
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:porsche-supercup:2026-06-14:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260614T031000Z
+DTEND:20260614T051000Z
+SUMMARY:PORSCHE SUPERCUP · Carrera — Barcelona (sin confirmar)
+DESCRIPTION:Circuito: Circuito de Barcelona\nArgentinos: Luciano Martínez\
+ nFuente: carburando\nHorario tentativo\, puede cambiar.
+LOCATION:Circuito de Barcelona
+URL:https://www.carburando.com/notas/porsche-supercup-sabado-complejo-para-
+ luciano-martinez-en-barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f3:2026-06-14:sprint@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260614T090000Z
+DTEND:20260614T100000Z
+SUMMARY:F3 · Sprint — Barcelona (sin confirmar)
+DESCRIPTION:Circuito: Circuit de Barcelona-Catalunya\nArgentinos: Mattia Co
+ lnaghi\nFuente: carburando\nHorario tentativo\, puede cambiar.
+LOCATION:Circuit de Barcelona-Catalunya
+URL:https://www.carburando.com/notas/mattia-colnaghi-abandono-la-sprint-de-
+ formula-3-en-barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-06-14:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260614T130000Z
+DTEND:20260614T150000Z
+SUMMARY:F1 · Carrera — Barcelona Grand Prix
+DESCRIPTION:Circuito: Circuit de Barcelona-Catalunya\nFuente: jolpica
+LOCATION:Circuit de Barcelona-Catalunya
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:wec:2026-06-14:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260614T130000Z
+DTEND:20260614T150000Z
+SUMMARY:WEC · Carrera — 24 Horas de Le Mans (sin confirmar)
+DESCRIPTION:Circuito: Circuit de la Sarthe\nArgentinos: José María López
+ \nFuente: carburando\nHorario tentativo\, puede cambiar.
+LOCATION:Circuit de la Sarthe
+URL:https://www.carburando.com/notas/wec-arriba-pechito-el-piloto-argentino
+ -ya-maneja-en-las-24-horas-de-le-mans
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-06-14:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260614T140000Z
+DTEND:20260614T150000Z
+SUMMARY:F1 · Clasificación — Gran Premio de Barcelona (sin confirmar)
+DESCRIPTION:Circuito: Circuito Internacional de Barcelona-Catalunya\nArgent
+ inos: Franco Colapinto\nFuente: carburando\nHorario tentativo\, puede camb
+ iar.
+LOCATION:Circuito Internacional de Barcelona-Catalunya
+URL:https://www.carburando.com/notas/f3-a-que-hora-y-por-donde-ver-a-mattia
+ -colnaghi-en-el-gran-premio-de-barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f2:2026-06-14:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260614T220000Z
+DTEND:20260615T000000Z
+SUMMARY:F2 · Carrera — Barcelona (sin confirmar)
+DESCRIPTION:Circuito: Circuit de Barcelona-Catalunya\nArgentinos: Nicolás 
+ Varrone\, Rafael Villagómez\nFuente: carburando\nHorario tentativo\, pued
+ e cambiar.
+LOCATION:Circuit de Barcelona-Catalunya
+URL:https://www.carburando.com/notas/f2-varrone-fue-p13-en-la-feature-race-
+ de-barcelona-gran-largada-lucha-adelante-y-final-sin-puntos
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:porsche-supercup:2026-06-15:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260615T031000Z
+DTEND:20260615T051000Z
+SUMMARY:PORSCHE SUPERCUP · Carrera — Barcelona (sin confirmar)
+DESCRIPTION:Circuito: Barcelona\nArgentinos: Luciano Martínez\nFuente: car
+ burando\nHorario tentativo\, puede cambiar.
+LOCATION:Barcelona
+URL:https://www.carburando.com/notas/porsche-supercup-luciano-martinez-come
+ nzo-con-la-segunda-fecha-en-barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f3:2026-06-15:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260615T044000Z
+DTEND:20260615T064000Z
+SUMMARY:F3 · Carrera — Barcelona (sin confirmar)
+DESCRIPTION:Circuito: Circuit de Barcelona-Catalunya\nArgentinos: Mattia Co
+ lnaghi\nFuente: carburando\nHorario tentativo\, puede cambiar.
+LOCATION:Circuit de Barcelona-Catalunya
+URL:https://www.carburando.com/notas/mattia-colnaghi-abandono-la-sprint-de-
+ formula-3-en-barcelona
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tcr-italy:2026-06-19:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260619T063600Z
+DTEND:20260619T080600Z
+SUMMARY:TCR ITALY · Práctica — Monza (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Ramiro Zago\nFuente: carburando\nH
+ orario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/tcr-italy-ramiro-zago-buscara-seguir-p
+ rendido-en-la-pelea-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:cigt:2026-06-19:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260619T071400Z
+DTEND:20260619T084400Z
+SUMMARY:CIGT · Práctica — Monza (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Lautaro De la Iglesia\nFuente: car
+ burando\nHorario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/cigt-lautaro-de-la-iglesia-se-presenta
+ -en-monza-para-la-segunda-fecha-del-certamen-endurance
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:porsche-carrera-cup-italia:2026-06-19:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260619T081200Z
+DTEND:20260619T094200Z
+SUMMARY:PORSCHE CARRERA CUP ITALIA · Práctica — Monza (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Luciano Martínez\nFuente: carbura
+ ndo\nHorario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/porsche-carrera-cup-italia-luciano-mar
+ tinez-va-por-la-recuperacion-a-la-tercera-fecha-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f4-italiana:2026-06-19:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260619T101000Z
+DTEND:20260619T111000Z
+SUMMARY:F4 ITALIANA · Clasificación — F4 Italiana Round 3 (sin confirma
+ r)
+DESCRIPTION:Circuito: Monza\nArgentinos: Ignacio Díaz\, Federico Díaz Qua
+ glia\, Nicolás Bianco\, Gregorio Mandrini\nFuente: carburando\nHorario te
+ ntativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/f4-italiana-el-alpha-54-racing-se-pres
+ enta-con-una-importante-novedad-a-la-tercera-fecha-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tcr-italy:2026-06-19:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260619T111000Z
+DTEND:20260619T121000Z
+SUMMARY:TCR ITALY · Clasificación — Monza (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Ramiro Zago\nFuente: carburando\nH
+ orario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/tcr-italy-ramiro-zago-buscara-seguir-p
+ rendido-en-la-pelea-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f4-italiana:2026-06-19:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260619T172000Z
+DTEND:20260619T185000Z
+SUMMARY:F4 ITALIANA · Práctica — F4 Italiana Round 3 (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Ignacio Díaz\, Federico Díaz Qua
+ glia\, Nicolás Bianco\, Gregorio Mandrini\nFuente: carburando\nHorario te
+ ntativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/f4-italiana-el-alpha-54-racing-se-pres
+ enta-con-una-importante-novedad-a-la-tercera-fecha-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:cigt:2026-06-20:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260620T013000Z
+DTEND:20260620T030000Z
+SUMMARY:CIGT · Práctica — Monza (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Lautaro De la Iglesia\nFuente: car
+ burando\nHorario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/cigt-lautaro-de-la-iglesia-se-presenta
+ -en-monza-para-la-segunda-fecha-del-certamen-endurance
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:porsche-carrera-cup-italia:2026-06-20:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260620T023000Z
+DTEND:20260620T033000Z
+SUMMARY:PORSCHE CARRERA CUP ITALIA · Clasificación — Monza (sin confirm
+ ar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Luciano Martínez\nFuente: carbura
+ ndo\nHorario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/porsche-carrera-cup-italia-luciano-mar
+ tinez-va-por-la-recuperacion-a-la-tercera-fecha-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tcr-italy:2026-06-20:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260620T053000Z
+DTEND:20260620T073000Z
+SUMMARY:TCR ITALY · Carrera — Monza (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Ramiro Zago\nFuente: carburando\nH
+ orario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/tcr-italy-ramiro-zago-buscara-seguir-p
+ rendido-en-la-pelea-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:cigt:2026-06-20:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260620T062000Z
+DTEND:20260620T072000Z
+SUMMARY:CIGT · Clasificación — Monza (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Lautaro De la Iglesia\nFuente: car
+ burando\nHorario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/cigt-lautaro-de-la-iglesia-se-presenta
+ -en-monza-para-la-segunda-fecha-del-certamen-endurance
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:porsche-carrera-cup-italia:2026-06-20:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260620T082000Z
+DTEND:20260620T102000Z
+SUMMARY:PORSCHE CARRERA CUP ITALIA · Carrera — Monza (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Luciano Martínez\nFuente: carbura
+ ndo\nHorario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/porsche-carrera-cup-italia-luciano-mar
+ tinez-va-por-la-recuperacion-a-la-tercera-fecha-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f4-italiana:2026-06-20:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260620T103000Z
+DTEND:20260620T123000Z
+SUMMARY:F4 ITALIANA · Carrera — F4 Italiana Round 3 (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Ignacio Díaz\, Federico Díaz Qua
+ glia\, Nicolás Bianco\, Gregorio Mandrini\nFuente: carburando\nHorario te
+ ntativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/f4-italiana-el-alpha-54-racing-se-pres
+ enta-con-una-importante-novedad-a-la-tercera-fecha-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tc:2026-06-21:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:Turismo Carretera · Carrera — Carrera de los Millones (sin confi
+ rmar)
+DESCRIPTION:Circuito: Autódromo Ciudad de Rafaela\nArgentinos: Diego Azar\
+ nFuente: campeones\nHorario tentativo\, puede cambiar.
+LOCATION:Autódromo Ciudad de Rafaela
+URL:https://campeones.com.ar/diego-azar-detallo-la-prueba-con-el-mercedes-b
+ enz-de-maquin-parts/
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f4-espanola:2026-06-21:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260621T020000Z
+DTEND:20260621T030000Z
+SUMMARY:F4 ESPANOLA · Clasificación — Aragón (sin confirmar)
+DESCRIPTION:Circuito: Circuito de Aragón\nArgentinos: Simón Bulbarella\, 
+ Fausto Arnaudo\nFuente: carburando\nHorario tentativo\, puede cambiar.
+LOCATION:Circuito de Aragón
+URL:https://www.carburando.com/notas/f4-espanola-fausto-arnaudo-y-simon-bul
+ barella-salieron-a-pista-en-el-viernes-de-aragon
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:porsche-carrera-cup-italia:2026-06-21:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260621T023000Z
+DTEND:20260621T033000Z
+SUMMARY:PORSCHE CARRERA CUP ITALIA · Clasificación — Monza (sin confirm
+ ar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Luciano Martínez\nFuente: carbura
+ ndo\nHorario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/porsche-carrera-cup-italia-luciano-mar
+ tinez-puso-primera-en-la-actividad-de-la-tercera-fecha-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tcr-italy:2026-06-21:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260621T032500Z
+DTEND:20260621T052500Z
+SUMMARY:TCR ITALY · Carrera — Monza (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Ramiro Zago\nFuente: carburando\nH
+ orario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/tcr-italy-ramiro-zago-buscara-seguir-p
+ rendido-en-la-pelea-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:porsche-carrera-cup-italia:2026-06-21:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260621T042000Z
+DTEND:20260621T062000Z
+SUMMARY:PORSCHE CARRERA CUP ITALIA · Carrera — Monza (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Luciano Martínez\nFuente: carbura
+ ndo\nHorario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/porsche-carrera-cup-italia-luciano-mar
+ tinez-va-por-la-recuperacion-a-la-tercera-fecha-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f4-italiana:2026-06-21:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260621T070000Z
+DTEND:20260621T090000Z
+SUMMARY:F4 ITALIANA · Carrera — F4 Italiana Round 3 (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Ignacio Díaz\, Federico Díaz Qua
+ glia\, Nicolás Bianco\, Gregorio Mandrini\nFuente: carburando\nHorario te
+ ntativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/f4-italiana-el-alpha-54-racing-se-pres
+ enta-con-una-importante-novedad-a-la-tercera-fecha-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:cigt:2026-06-21:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260621T080000Z
+DTEND:20260621T100000Z
+SUMMARY:CIGT · Carrera — Monza (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Lautaro De la Iglesia\nFuente: car
+ burando\nHorario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/cigt-lautaro-de-la-iglesia-se-presenta
+ -en-monza-para-la-segunda-fecha-del-certamen-endurance
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f4-espanola:2026-06-21:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260621T093500Z
+DTEND:20260621T113500Z
+SUMMARY:F4 ESPANOLA · Carrera — Aragón (sin confirmar)
+DESCRIPTION:Circuito: Circuito de Aragón\nArgentinos: Simón Bulbarella\, 
+ Fausto Arnaudo\nFuente: carburando\nHorario tentativo\, puede cambiar.
+LOCATION:Circuito de Aragón
+URL:https://www.carburando.com/notas/f4-espanola-fausto-arnaudo-y-simon-bul
+ barella-salieron-a-pista-en-el-viernes-de-aragon
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f4-espanola:2026-06-22:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260622T020000Z
+DTEND:20260622T030000Z
+SUMMARY:F4 ESPANOLA · Clasificación — Aragón (sin confirmar)
+DESCRIPTION:Circuito: Circuito de Aragón\nArgentinos: Simón Bulbarella\, 
+ Fausto Arnaudo\nFuente: carburando\nHorario tentativo\, puede cambiar.
+LOCATION:Circuito de Aragón
+URL:https://www.carburando.com/notas/f4-espanola-fausto-arnaudo-y-simon-bul
+ barella-salieron-a-pista-en-el-viernes-de-aragon
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:porsche-carrera-cup-italia:2026-06-22:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260622T042000Z
+DTEND:20260622T062000Z
+SUMMARY:PORSCHE CARRERA CUP ITALIA · Carrera — Monza (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Luciano Martínez\nFuente: carbura
+ ndo\nHorario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/porsche-carrera-cup-italia-luciano-mar
+ tinez-puso-primera-en-la-actividad-de-la-tercera-fecha-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f4-espanola:2026-06-22:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260622T055500Z
+DTEND:20260622T075500Z
+SUMMARY:F4 ESPANOLA · Carrera — Aragón (sin confirmar)
+DESCRIPTION:Circuito: Circuito de Aragón\nArgentinos: Simón Bulbarella\, 
+ Fausto Arnaudo\nFuente: carburando\nHorario tentativo\, puede cambiar.
+LOCATION:Circuito de Aragón
+URL:https://www.carburando.com/notas/f4-espanola-fausto-arnaudo-y-simon-bul
+ barella-salieron-a-pista-en-el-viernes-de-aragon
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f4-italiana:2026-06-22:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260622T070000Z
+DTEND:20260622T090000Z
+SUMMARY:F4 ITALIANA · Carrera — Monza (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Ignacio Díaz\, Federico Díaz Qua
+ glia\nFuente: carburando\nHorario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/f4-italiana-los-pilotos-del-alpha-54-r
+ acing-cumplieron-con-la-primera-jornada-de-accion-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f4-italiana:2026-06-23:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260623T073000Z
+DTEND:20260623T093000Z
+SUMMARY:F4 ITALIANA · Carrera — F4 Italiana Round 3 (sin confirmar)
+DESCRIPTION:Circuito: Monza\nArgentinos: Ignacio Díaz\, Federico Díaz Qua
+ glia\nFuente: carburando\nHorario tentativo\, puede cambiar.
+LOCATION:Monza
+URL:https://www.carburando.com/notas/f4-italiana-los-pilotos-del-alpha-54-r
+ acing-completaron-la-primera-carrera-en-monza
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-06-26:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260626T113000Z
+DTEND:20260626T130000Z
+SUMMARY:F1 · Práctica — Austrian Grand Prix
+DESCRIPTION:Circuito: Red Bull Ring\nFuente: jolpica
+LOCATION:Red Bull Ring
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:gt-world-challenge-europe:2026-06-26:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260626T220000Z
+DTEND:20260627T000000Z
+SUMMARY:GT WORLD CHALLENGE EUROPE · Carrera — 24 Horas de Spa-Francorcha
+ mps (sin confirmar)
+DESCRIPTION:Circuito: Spa-Francorchamps\nArgentinos: Ignacio Montenegro\, M
+ atisse Lismont\, Amaury Cordeel\, Mathieu Detry\nFuente: carburando\nHorar
+ io tentativo\, puede cambiar.
+LOCATION:Spa-Francorchamps
+URL:https://www.carburando.com/notas/gt-world-challenge-europa-nacho-monten
+ egro-sumara-un-nuevo-companero-para-las-24-horas-de-spa
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tc2000:2026-06-27:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260627T000000Z
+DTEND:20260627T020000Z
+SUMMARY:TC2000 · Carrera — TC2000 Final San Nicolás (sin confirmar)
+DESCRIPTION:Circuito: San Nicolás\nArgentinos: Franco Vivian\, Matías Ros
+ si\, Franco Riva\, Emiliano Stang\, Valentín Yankelevich\, Franco Morillo
+ \, Lucas Vicino\nFuente: campeones\nHorario tentativo\, puede cambiar.
+LOCATION:San Nicolás
+URL:https://campeones.com.ar/tc2000-franco-vivian-volvio-al-triunfo-en-salt
+ a/
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-06-27:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260627T140000Z
+DTEND:20260627T150000Z
+SUMMARY:F1 · Clasificación — Austrian Grand Prix
+DESCRIPTION:Circuito: Red Bull Ring\nFuente: jolpica
+LOCATION:Red Bull Ring
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tc2000:2026-06-28:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260628T000000Z
+DTEND:20260628T020000Z
+SUMMARY:TC2000 · Carrera — TC2000 Fecha 5 - San Nicolás (sin confirmar)
+DESCRIPTION:Circuito: San Nicolás\nFuente: campeones\nHorario tentativo\, 
+ puede cambiar.
+LOCATION:San Nicolás
+URL:https://campeones.com.ar/tc2000-la-nueva-marca-que-podria-llegar-en-202
+ 7-y-mas-novedades/
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-06-28:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260628T130000Z
+DTEND:20260628T150000Z
+SUMMARY:F1 · Carrera — Austrian Grand Prix
+DESCRIPTION:Circuito: Red Bull Ring\nFuente: jolpica
+LOCATION:Red Bull Ring
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-07-03:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260703T113000Z
+DTEND:20260703T130000Z
+SUMMARY:F1 · Práctica — British Grand Prix
+DESCRIPTION:Circuito: Silverstone Circuit\nFuente: jolpica
+LOCATION:Silverstone Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-07-03:sprint_shootout@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260703T153000Z
+DTEND:20260703T161500Z
+SUMMARY:F1 · Sprint Shootout — British Grand Prix
+DESCRIPTION:Circuito: Silverstone Circuit\nFuente: jolpica
+LOCATION:Silverstone Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-07-04:sprint@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260704T110000Z
+DTEND:20260704T120000Z
+SUMMARY:F1 · Sprint — British Grand Prix
+DESCRIPTION:Circuito: Silverstone Circuit\nFuente: jolpica
+LOCATION:Silverstone Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-07-04:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260704T150000Z
+DTEND:20260704T160000Z
+SUMMARY:F1 · Clasificación — British Grand Prix
+DESCRIPTION:Circuito: Silverstone Circuit\nFuente: jolpica
+LOCATION:Silverstone Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tn:2026-07-05:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260705T000000Z
+DTEND:20260705T020000Z
+SUMMARY:Turismo Nacional · Carrera — TN Clase 3 (sin confirmar)
+DESCRIPTION:Circuito: Termas de Río Hondo\nArgentinos: Nicolás Trosset\, 
+ Braian Quevedo\, Leandro Carducci\nFuente: campeones\nHorario tentativo\, 
+ puede cambiar.
+LOCATION:Termas de Río Hondo
+URL:https://campeones.com.ar/un-regreso-fuerte-al-tn-clase-3-con-un-focus/
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-07-05:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260705T140000Z
+DTEND:20260705T160000Z
+SUMMARY:F1 · Carrera — British Grand Prix
+DESCRIPTION:Circuito: Silverstone Circuit\nFuente: jolpica
+LOCATION:Silverstone Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-07-17:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260717T113000Z
+DTEND:20260717T130000Z
+SUMMARY:F1 · Práctica — Belgian Grand Prix
+DESCRIPTION:Circuito: Circuit de Spa-Francorchamps\nFuente: jolpica
+LOCATION:Circuit de Spa-Francorchamps
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-07-18:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260718T140000Z
+DTEND:20260718T150000Z
+SUMMARY:F1 · Clasificación — Belgian Grand Prix
+DESCRIPTION:Circuito: Circuit de Spa-Francorchamps\nFuente: jolpica
+LOCATION:Circuit de Spa-Francorchamps
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-07-19:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260719T130000Z
+DTEND:20260719T150000Z
+SUMMARY:F1 · Carrera — Belgian Grand Prix
+DESCRIPTION:Circuito: Circuit de Spa-Francorchamps\nFuente: jolpica
+LOCATION:Circuit de Spa-Francorchamps
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-07-24:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260724T113000Z
+DTEND:20260724T130000Z
+SUMMARY:F1 · Práctica — Hungarian Grand Prix
+DESCRIPTION:Circuito: Hungaroring\nFuente: jolpica
+LOCATION:Hungaroring
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-07-25:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260725T140000Z
+DTEND:20260725T150000Z
+SUMMARY:F1 · Clasificación — Hungarian Grand Prix
+DESCRIPTION:Circuito: Hungaroring\nFuente: jolpica
+LOCATION:Hungaroring
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-07-26:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260726T130000Z
+DTEND:20260726T150000Z
+SUMMARY:F1 · Carrera — Hungarian Grand Prix
+DESCRIPTION:Circuito: Hungaroring\nFuente: jolpica
+LOCATION:Hungaroring
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tc2000:2026-08-08:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260808T000000Z
+DTEND:20260808T020000Z
+SUMMARY:TC2000 · Carrera — TC2000 en La Pampa (sin confirmar)
+DESCRIPTION:Circuito: Autódromo de La Pampa\nArgentinos: Leonel Pernía\, 
+ Matías Rossi\, Gabriel Ponce de León\nFuente: carburando\nHorario tentat
+ ivo\, puede cambiar.
+LOCATION:Autódromo de La Pampa
+URL:https://www.carburando.com/notas/cinco-anos-despues-el-tc2000-regresa-a
+ -uno-de-los-circuitos-mas-veloces-del-pais
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:formula-nacional:2026-08-08:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260808T000000Z
+DTEND:20260808T020000Z
+SUMMARY:FORMULA NACIONAL · Carrera — Fórmula Nacional en La Pampa (sin 
+ confirmar)
+DESCRIPTION:Circuito: Autódromo de La Pampa\nFuente: carburando\nHorario t
+ entativo\, puede cambiar.
+LOCATION:Autódromo de La Pampa
+URL:https://www.carburando.com/notas/cinco-anos-despues-el-tc2000-regresa-a
+ -uno-de-los-circuitos-mas-veloces-del-pais
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:fepad:2026-08-08:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260808T000000Z
+DTEND:20260808T020000Z
+SUMMARY:FEPAD · Carrera — FEPAD en La Pampa (sin confirmar)
+DESCRIPTION:Circuito: Autódromo de La Pampa\nFuente: carburando\nHorario t
+ entativo\, puede cambiar.
+LOCATION:Autódromo de La Pampa
+URL:https://www.carburando.com/notas/cinco-anos-despues-el-tc2000-regresa-a
+ -uno-de-los-circuitos-mas-veloces-del-pais
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:tc2000:2026-08-09:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260809T000000Z
+DTEND:20260809T020000Z
+SUMMARY:TC2000 · Carrera — TC2000 Fecha 6 - Toay (sin confirmar)
+DESCRIPTION:Circuito: Toay\nFuente: campeones\nHorario tentativo\, puede ca
+ mbiar.
+LOCATION:Toay
+URL:https://campeones.com.ar/tc2000-la-nueva-marca-que-podria-llegar-en-202
+ 7-y-mas-novedades/
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:formula-nacional:2026-08-09:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260809T000000Z
+DTEND:20260809T020000Z
+SUMMARY:FORMULA NACIONAL · Carrera — Fórmula Nacional en La Pampa (sin 
+ confirmar)
+DESCRIPTION:Circuito: Autódromo de La Pampa\nFuente: carburando\nHorario t
+ entativo\, puede cambiar.
+LOCATION:Autódromo de La Pampa
+URL:https://www.carburando.com/notas/cinco-anos-despues-el-tc2000-regresa-a
+ -uno-de-los-circuitos-mas-veloces-del-pais
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:fepad:2026-08-09:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260809T000000Z
+DTEND:20260809T020000Z
+SUMMARY:FEPAD · Carrera — FEPAD en La Pampa (sin confirmar)
+DESCRIPTION:Circuito: Autódromo de La Pampa\nFuente: carburando\nHorario t
+ entativo\, puede cambiar.
+LOCATION:Autódromo de La Pampa
+URL:https://www.carburando.com/notas/cinco-anos-despues-el-tc2000-regresa-a
+ -uno-de-los-circuitos-mas-veloces-del-pais
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-08-21:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260821T103000Z
+DTEND:20260821T120000Z
+SUMMARY:F1 · Práctica — Dutch Grand Prix
+DESCRIPTION:Circuito: Circuit Park Zandvoort\nFuente: jolpica
+LOCATION:Circuit Park Zandvoort
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-08-21:sprint_shootout@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260821T143000Z
+DTEND:20260821T151500Z
+SUMMARY:F1 · Sprint Shootout — Dutch Grand Prix
+DESCRIPTION:Circuito: Circuit Park Zandvoort\nFuente: jolpica
+LOCATION:Circuit Park Zandvoort
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-08-22:sprint@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260822T100000Z
+DTEND:20260822T110000Z
+SUMMARY:F1 · Sprint — Dutch Grand Prix
+DESCRIPTION:Circuito: Circuit Park Zandvoort\nFuente: jolpica
+LOCATION:Circuit Park Zandvoort
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-08-22:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260822T140000Z
+DTEND:20260822T150000Z
+SUMMARY:F1 · Clasificación — Dutch Grand Prix
+DESCRIPTION:Circuito: Circuit Park Zandvoort\nFuente: jolpica
+LOCATION:Circuit Park Zandvoort
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-08-23:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:F1 · Carrera — Dutch Grand Prix
+DESCRIPTION:Circuito: Circuit Park Zandvoort\nFuente: jolpica
+LOCATION:Circuit Park Zandvoort
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-09-04:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260904T103000Z
+DTEND:20260904T120000Z
+SUMMARY:F1 · Práctica — Italian Grand Prix
+DESCRIPTION:Circuito: Autodromo Nazionale di Monza\nFuente: jolpica
+LOCATION:Autodromo Nazionale di Monza
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-09-05:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260905T140000Z
+DTEND:20260905T150000Z
+SUMMARY:F1 · Clasificación — Italian Grand Prix
+DESCRIPTION:Circuito: Autodromo Nazionale di Monza\nFuente: jolpica
+LOCATION:Autodromo Nazionale di Monza
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-09-06:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:F1 · Carrera — Italian Grand Prix
+DESCRIPTION:Circuito: Autodromo Nazionale di Monza\nFuente: jolpica
+LOCATION:Autodromo Nazionale di Monza
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-09-11:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260911T113000Z
+DTEND:20260911T130000Z
+SUMMARY:F1 · Práctica — Spanish Grand Prix
+DESCRIPTION:Circuito: Madring\nFuente: jolpica
+LOCATION:Madring
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-09-12:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260912T140000Z
+DTEND:20260912T150000Z
+SUMMARY:F1 · Clasificación — Spanish Grand Prix
+DESCRIPTION:Circuito: Madring\nFuente: jolpica
+LOCATION:Madring
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-09-13:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:F1 · Carrera — Spanish Grand Prix
+DESCRIPTION:Circuito: Madring\nFuente: jolpica
+LOCATION:Madring
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-09-24:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260924T083000Z
+DTEND:20260924T100000Z
+SUMMARY:F1 · Práctica — Azerbaijan Grand Prix
+DESCRIPTION:Circuito: Baku City Circuit\nFuente: jolpica
+LOCATION:Baku City Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-09-25:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260925T120000Z
+DTEND:20260925T130000Z
+SUMMARY:F1 · Clasificación — Azerbaijan Grand Prix
+DESCRIPTION:Circuito: Baku City Circuit\nFuente: jolpica
+LOCATION:Baku City Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-09-26:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:F1 · Carrera — Azerbaijan Grand Prix
+DESCRIPTION:Circuito: Baku City Circuit\nFuente: jolpica
+LOCATION:Baku City Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-10-09:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261009T083000Z
+DTEND:20261009T100000Z
+SUMMARY:F1 · Práctica — Singapore Grand Prix
+DESCRIPTION:Circuito: Marina Bay Street Circuit\nFuente: jolpica
+LOCATION:Marina Bay Street Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-10-09:sprint_shootout@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261009T123000Z
+DTEND:20261009T131500Z
+SUMMARY:F1 · Sprint Shootout — Singapore Grand Prix
+DESCRIPTION:Circuito: Marina Bay Street Circuit\nFuente: jolpica
+LOCATION:Marina Bay Street Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-10-10:sprint@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261010T090000Z
+DTEND:20261010T100000Z
+SUMMARY:F1 · Sprint — Singapore Grand Prix
+DESCRIPTION:Circuito: Marina Bay Street Circuit\nFuente: jolpica
+LOCATION:Marina Bay Street Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-10-10:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261010T130000Z
+DTEND:20261010T140000Z
+SUMMARY:F1 · Clasificación — Singapore Grand Prix
+DESCRIPTION:Circuito: Marina Bay Street Circuit\nFuente: jolpica
+LOCATION:Marina Bay Street Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-10-11:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261011T120000Z
+DTEND:20261011T140000Z
+SUMMARY:F1 · Carrera — Singapore Grand Prix
+DESCRIPTION:Circuito: Marina Bay Street Circuit\nFuente: jolpica
+LOCATION:Marina Bay Street Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-10-23:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261023T173000Z
+DTEND:20261023T190000Z
+SUMMARY:F1 · Práctica — United States Grand Prix
+DESCRIPTION:Circuito: Circuit of the Americas\nFuente: jolpica
+LOCATION:Circuit of the Americas
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-10-24:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261024T210000Z
+DTEND:20261024T220000Z
+SUMMARY:F1 · Clasificación — United States Grand Prix
+DESCRIPTION:Circuito: Circuit of the Americas\nFuente: jolpica
+LOCATION:Circuit of the Americas
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-10-25:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:F1 · Carrera — United States Grand Prix
+DESCRIPTION:Circuito: Circuit of the Americas\nFuente: jolpica
+LOCATION:Circuit of the Americas
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-10-30:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261030T183000Z
+DTEND:20261030T200000Z
+SUMMARY:F1 · Práctica — Mexico City Grand Prix
+DESCRIPTION:Circuito: Autódromo Hermanos Rodríguez\nFuente: jolpica
+LOCATION:Autódromo Hermanos Rodríguez
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-10-31:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261031T210000Z
+DTEND:20261031T220000Z
+SUMMARY:F1 · Clasificación — Mexico City Grand Prix
+DESCRIPTION:Circuito: Autódromo Hermanos Rodríguez\nFuente: jolpica
+LOCATION:Autódromo Hermanos Rodríguez
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-11-01:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:F1 · Carrera — Mexico City Grand Prix
+DESCRIPTION:Circuito: Autódromo Hermanos Rodríguez\nFuente: jolpica
+LOCATION:Autódromo Hermanos Rodríguez
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-11-06:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261106T153000Z
+DTEND:20261106T170000Z
+SUMMARY:F1 · Práctica — Brazilian Grand Prix
+DESCRIPTION:Circuito: Autódromo José Carlos Pace\nFuente: jolpica
+LOCATION:Autódromo José Carlos Pace
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-11-07:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261107T180000Z
+DTEND:20261107T190000Z
+SUMMARY:F1 · Clasificación — Brazilian Grand Prix
+DESCRIPTION:Circuito: Autódromo José Carlos Pace\nFuente: jolpica
+LOCATION:Autódromo José Carlos Pace
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-11-08:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:F1 · Carrera — Brazilian Grand Prix
+DESCRIPTION:Circuito: Autódromo José Carlos Pace\nFuente: jolpica
+LOCATION:Autódromo José Carlos Pace
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-11-20:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261120T003000Z
+DTEND:20261120T020000Z
+SUMMARY:F1 · Práctica — Las Vegas Grand Prix
+DESCRIPTION:Circuito: Las Vegas Strip Street Circuit\nFuente: jolpica
+LOCATION:Las Vegas Strip Street Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-11-21:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261121T040000Z
+DTEND:20261121T050000Z
+SUMMARY:F1 · Clasificación — Las Vegas Grand Prix
+DESCRIPTION:Circuito: Las Vegas Strip Street Circuit\nFuente: jolpica
+LOCATION:Las Vegas Strip Street Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-11-22:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261122T040000Z
+DTEND:20261122T060000Z
+SUMMARY:F1 · Carrera — Las Vegas Grand Prix
+DESCRIPTION:Circuito: Las Vegas Strip Street Circuit\nFuente: jolpica
+LOCATION:Las Vegas Strip Street Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-11-27:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261127T133000Z
+DTEND:20261127T150000Z
+SUMMARY:F1 · Práctica — Qatar Grand Prix
+DESCRIPTION:Circuito: Losail International Circuit\nFuente: jolpica
+LOCATION:Losail International Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-11-28:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261128T180000Z
+DTEND:20261128T190000Z
+SUMMARY:F1 · Clasificación — Qatar Grand Prix
+DESCRIPTION:Circuito: Losail International Circuit\nFuente: jolpica
+LOCATION:Losail International Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-11-29:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:F1 · Carrera — Qatar Grand Prix
+DESCRIPTION:Circuito: Losail International Circuit\nFuente: jolpica
+LOCATION:Losail International Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-12-04:practice@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261204T093000Z
+DTEND:20261204T110000Z
+SUMMARY:F1 · Práctica — Abu Dhabi Grand Prix
+DESCRIPTION:Circuito: Yas Marina Circuit\nFuente: jolpica
+LOCATION:Yas Marina Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-12-05:qualifying@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261205T140000Z
+DTEND:20261205T150000Z
+SUMMARY:F1 · Clasificación — Abu Dhabi Grand Prix
+DESCRIPTION:Circuito: Yas Marina Circuit\nFuente: jolpica
+LOCATION:Yas Marina Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+BEGIN:VEVENT
+UID:motorsport:f1:2026-12-06:race@sportscal
+DTSTAMP:20260621T004931Z
+DTSTART:20261206T130000Z
+DTEND:20261206T150000Z
+SUMMARY:F1 · Carrera — Abu Dhabi Grand Prix
+DESCRIPTION:Circuito: Yas Marina Circuit\nFuente: jolpica
+LOCATION:Yas Marina Circuit
+URL:https://api.jolpi.ca/ergast/f1/2026.json
+END:VEVENT
+END:VCALENDAR
